@@ -2,8 +2,9 @@
 
 
 
-//[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majhcc)](https://majhcc.xyz)
+
 [![majhcc's GitHub stats](https://github-readme-stats.vercel.app/api?username=majhcc)](https://majhcc.xyz)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=majhcc)](https://majhcc.xyz)
 
 ###
 
