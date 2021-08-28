@@ -29,4 +29,4 @@ width="800" height="2">
 
 ![Profile views](https://gpvc.arturio.dev/majhcc)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/majhcc)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/majhcc/)
+<a href="https://instagram.com/majhcc"><img src="https://img.shields.io/badge/-@majhcc-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
