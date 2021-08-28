@@ -31,6 +31,6 @@ width="800" height="2">
 <a href="mailto:info@majhcc.xyz"><img src="https://img.shields.io/badge/-info@majhcc.xyz-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://twitter.com/majhcc"><img src="https://img.shields.io/badge/-@majhcc-1A8CD8?style=flat&logo=twitter&logoColor=white"/></a>
 <a href="https://instagram.com/majhcc"><img src="https://img.shields.io/badge/-@majhcc-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
-<a href="https://youtube.com/majhcc"><img src="https://img.shields.io/youtube/channel/subscribers/majhcc"/></a>
+<a href="https://youtube.com/majhcc"><img src="https://img.shields.io/youtube/channel/subscribers/MAJHCC"/></a>
 
 
