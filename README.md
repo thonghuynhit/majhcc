@@ -4,10 +4,6 @@
 
 
 ### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/majhcc">
-## Languages
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=majhcc&hide_title=true&hide_border=true&theme=tokyonight" /></div>
 </a>
 </p>
