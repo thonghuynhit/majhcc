@@ -7,8 +7,12 @@
 
 <p align="center">
 <a href="https://github.com/majhcc">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=majhcc&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=majhcc&layout=compact&langs_count=8&theme=algolia"/>
+  
+## WakaTime
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime/?username=rojserbest&hide_title=true&hide_border=true&theme=tokyonight" /></div>
+
+## Languages
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rojserbest&hide_title=true&hide_border=true&theme=tokyonight" /></div>
 </a>
 </p>
 
