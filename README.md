@@ -5,7 +5,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=majhcc&hide_title=true&hide_border=true&theme=tokyonight" /></div>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=majhcc&hide=contribs,issues&theme=tokyonight" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=majhcc&hide=contribs,issues,stars&theme=tokyonight" /></div>
 
 
 ###
