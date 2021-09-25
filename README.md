@@ -7,10 +7,6 @@
 
 <p align="center">
 <a href="https://github.com/majhcc">
-  
-## WakaTime
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/wakatime/?username=majhcc&hide_title=true&hide_border=true&theme=tokyonight" /></div>
-
 ## Languages
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=majhcc&hide_title=true&hide_border=true&theme=tokyonight" /></div>
 </a>
